@@ -27,6 +27,6 @@ body {
 }
 
 .heart:after {
-  left: 0;
-  transform-origin: 100% 100%;
+  left: 25px;
+  top: 0;
 }
